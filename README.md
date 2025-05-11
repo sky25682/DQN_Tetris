@@ -1,4 +1,7 @@
-State
+## DQN
+
+
+MLP
 - **`lines_cleared`**
     
     : 특정 조각을 놓은 후에 지워진 줄의 수
@@ -14,3 +17,6 @@ State
 - **`sum_height`**
     
     : 각 열의 높이의 합
+
+CNN
+Board
